@@ -1,6 +1,6 @@
 # Tableau Dashboards
 
-Welcome to my **Tableau Dashboards** repository! 🚀 This repository showcases three dashboards ranging from basic to advanced analytics, along with the datasets used for each. It includes insights on **data visualization, ETL processes, and interactive reporting** using Tableau Public.
+This repository showcases three dashboards ranging from basic to advanced analytics, along with the datasets used for each. It includes insights on **data visualization, ETL processes, and interactive reporting** using Tableau Public.
 
 ## 📊 Dashboards Included
 
@@ -8,10 +8,12 @@ Welcome to my **Tableau Dashboards** repository! 🚀 This repository showcases 
 <p align="center">
   <img src="https://i.postimg.cc/zBHwtXWD/Whats-App-Image-2025-03-06-at-23-15-29-dae2f935.jpg" alt="App Screenshot" width="600">
 </p>  
-2. **Sales Analytics Dashboard (Interactive)** – An advanced dashboard incorporating interactive filters and deeper insights into sales performance.
+
+2. **Sales Analytics Dashboard (Interactive)** An advanced dashboard incorporating interactive filters and deeper insights into sales performance.
 <p align="center">
   <img src="https://i.postimg.cc/d31hH5g2/Whats-App-Image-2025-03-06-at-23-13-35-e0ef7393.jpg" alt="App Screenshot" width="600">
 </p> 
+
 3. **British Airways Dashboard (Interactive)** – A comprehensive dashboard utilizing geospatial data for airline reviews and analytics.
 <p align="center">
   <img src="https://i.postimg.cc/85h88DgD/Whats-App-Image-2025-03-07-at-09-51-35-d327524f.jpg" alt="App Screenshot" width="600">
